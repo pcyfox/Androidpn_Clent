@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\raw_androidpn.properties.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\raw\\androidpn.properties"
+    },
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification.png.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification.png.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\raw_androidpn.properties.flat",
+        "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\raw\\androidpn.properties"
+    }
+]

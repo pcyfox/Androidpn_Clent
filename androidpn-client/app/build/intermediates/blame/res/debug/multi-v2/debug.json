@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\projectForAndroidStudio\\androidpn-client\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\projectForAndroidStudio\\androidpn-client\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,174",
+                        "endColumns": "52,65,45",
+                        "endOffsets": "103,169,215"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,174",
+                        "endColumns": "52,65,45",
+                        "endOffsets": "103,169,215"
+                    }
+                }
+            ]
+        }
+    ]
+}

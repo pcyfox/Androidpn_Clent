@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Mar 17 12:45:05 CST 2018
+0.baseType=DIRECTORY
+0.base=F\:\\ProjectsSource\\androidpn_develop\\androidpn-client_base\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+0.path=classes.dex
+0.set=DEX
+count=1
