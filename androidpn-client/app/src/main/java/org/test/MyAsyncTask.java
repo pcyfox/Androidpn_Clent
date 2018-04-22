@@ -13,7 +13,8 @@ public class MyAsyncTask extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         TestAsyncTask task=new TestAsyncTask();
-        task.execute("");
+        task.execute("123");
+
     }
 
     private  class TestAsyncTask extends AsyncTask<String ,String,String>{
